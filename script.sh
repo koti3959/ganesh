@@ -1,4 +1,4 @@
-var a=10
+var ab=100
 
 var b=20
 
